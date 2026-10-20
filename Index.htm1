@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Furqan Aura - AI Article Writing Studio</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:Segoe UI,sans-serif}
+body{background:#fffaf6;color:#333}
+header{background:linear-gradient(135deg,#ff6a00,#ff9a44);color:white;padding:60px 20px;text-align:center}
+.btn{display:inline-block;background:white;color:#ff6a00;padding:14px 28px;border-radius:30px;text-decoration:none;font-weight:bold;margin-top:20px}
+section{max-width:1000px;margin:auto;padding:50px 20px}
+h2{text-align:center;font-size:28px;margin-bottom:30px;color:#ff6a00}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px}
+.card{background:white;border-radius:16px;padding:25px;box-shadow:0 8px 20px rgba(0,0,0,0.07);border-top:4px solid #ff6a00}
+footer{background:#222;color:#ccc;text-align:center;padding:25px;margin-top:30px}
+</style>
+</head>
+<body>
+<header>
+<h1>Furqan Aura</h1>
+<p>AI Article Writing Studio - SEO & Human Friendly Articles</p>
+<p>100% Plagiarism Free | Google Ranking | Fast Delivery</p>
+<a class="btn" href="https://wa.me/923000000000">Order on WhatsApp</a>
+</header>
+<section>
+<h2>Our Services</h2>
+<div class="cards">
+<div class="card"><h3>✍️ SEO Blog Articles</h3><p>Google par rank karne wale 100% SEO optimized articles.</p></div>
+<div class="card"><h3>🤖 AI + Human Touch</h3><p>AI safe, natural articles jo AI detector se bach jayen.</p></div>
+<div class="card"><h3>📈 Affiliate Articles</h3><p>Amazon, Health, Tech, Finance har niche ke liye articles.</p></div>
+</div>
+</section>
+<section style="background:#fff2e8;border-radius:20px;padding:30px">
+<h2>Why Choose Us?</h2>
+<div class="cards">
+<div class="card"><h3>✅ Fast Delivery</h3><p>24 ghante me delivery, urgent order bhi.</p></div>
+<div class="card"><h3>✅ Unlimited Revisions</h3><p>Jab tak khush na hon, edit karenge.</p></div>
+<div class="card"><h3>✅ Affordable</h3><p>Best quality kam price me.</p></div>
+</div>
+</section>
+<footer>
+<p>© 2026 Furqan Aura - AI Article Writing Studio</p>
+<p>furqanaura.github.io</p>
+</footer>
+</body>
+</html>
